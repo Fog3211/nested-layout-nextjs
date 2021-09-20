@@ -1,11 +1,11 @@
 import { } from 'react'
 
-const Page2 = () => {
+const Header = () => {
   return (
     <div>
-      222
+
     </div>
   )
 }
 
-export default Page2
+export default Header
